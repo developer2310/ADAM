@@ -1,0 +1,312 @@
+* {
+font-family: sans-serif; 
+}
+body {
+    height: 3500px;
+    background-color: #F7EFEE;
+}
+
+header {
+    height: 110px;
+    padding: 20px 0; 
+ 
+}
+
+.logo img {
+    width: 180px;
+    margin-top: -25px;
+
+}
+
+.logo span {
+    text-transform: uppercase;
+    font-size: 36px;
+    
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+ul li {
+    margin-top: 17px;
+}
+
+.navbar ul li {
+    padding: 0 11px;
+    margin: -15px 0;
+}
+ul li a {
+    font-size: 12px;
+    color: #0b2149;
+    font-weight: 800;
+    text-decoration: none;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.navbar ul li a:hover {
+    color: #81889C;
+}
+
+.box-item {
+    border: 2px solid #0b2149;
+    padding: 10px;
+}
+.box-item:hover {
+    background-color: #0b2149;
+    color: #fff !important;
+}
+
+#slide {
+    height: 600px;
+}
+
+.slide_title {
+    height: 500px;
+}
+
+.slide_item img {
+    width: 480px;
+    margin: 4px 57px;
+}
+
+.col-6 h2 {
+    margin-top: 190px;
+    font-size: 20px;
+    line-height: 34px;
+    color: #0b2149;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.col-6 h1 {
+    font-size: 56px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    line-height: 73px;
+    font-weight: 600;
+    color: #0b2149;
+}
+
+.col-6 a {
+    font-size: 16px;
+    margin-bottom: 25px;
+    line-height: 16px;
+    font-weight: 600;
+    color: #0b2149;
+    border: 2px solid;
+    padding: 15px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.item-one {
+    background-color: #0b2149;
+    color: #fff !important;
+}
+
+.item-one:hover {
+    background-color: #fff;
+    color: #0b2149 !important;
+}
+
+.item-two {
+    background-color: #fff;
+    color: #0b2149 !important;
+}
+
+.item-two:hover {
+    background-color: #0b2149;
+    color: #fff !important;
+}
+
+#slide_two {
+    height: 300px;
+}
+
+.col-9 h2{
+    font-size: 38px;
+    margin: 20px 0;
+    line-height: 55px;
+    color: #0b2149;
+    font-weight: 600;
+}
+.col-9 p {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 34px;
+    color: #0b2149;
+}
+
+.list_item_one img {
+    width: 150px;
+}
+
+.list_item_two h4 {
+    margin: 10px 0;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 48px;
+    color: #0b2149;
+}
+
+.list_item_two p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #0b2149;
+}
+.list_item_three {
+    margin: 20px;
+    width: 80px;
+}
+
+#slide_three {
+    height: 210px;
+}
+
+#slide_four {
+    height: 210px;
+}
+
+#slide_five {
+    height: 250px;
+}
+
+#slide_six {
+    height: 650px;
+}
+
+.passion_item h3 {
+    margin-top: 100px;
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 55px;
+    color: #0b2149;
+}
+
+.passion_item p {
+    margin-top: 15px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 34px;
+    color: #0b2149;
+}
+
+.passion_item a:hover {
+    color: #fff;
+    background-color: #0b2149;
+}
+
+#slide_seven {
+    height: 550px;
+}
+
+#slide_eight {
+    background-color: #0B2149;
+    height: 380px;
+}
+
+.touch_item h2 {
+    margin-top: 110px;
+    text-transform: none;
+    font-size: 46px;
+    font-weight: 600;
+    line-height: 62px;
+    color:#f7efee;
+}
+
+.touch_item_and {
+    margin: 110px; 
+
+}
+
+.touch_item a {
+    font-size: 16px;
+    line-height: 16px;
+    font-weight: 600;
+    color:#0b2149;
+    background-color: #fff;
+    border: 2px solid;
+    padding: 18px 27px 19px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.touch_item a:hover {
+    background-color:#0b2149;
+    color: #fff;
+}
+
+.passion_item img {
+   width: 450px;
+
+   position: absolute;
+   left: 1069px;
+
+}
+
+#slide_nine {
+    height: 220px;
+}
+
+.footer-one h6 , p {
+    font-size: 18px;
+    line-height: 32px;
+    color: #0b2149;
+}
+
+.footer p {
+    font-weight: 400;
+}
+
+.footer h6 {
+    font-weight: 600;
+}
+
+.footer-two h6 {
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: 600;
+    color: #0b2149;
+}
+
+.footer-two a {
+    display: flex;
+    padding: 0;
+    text-transform: none;
+    border: none;
+    background-color: #f7efee;
+    font-weight: 300;
+}
+
+.footer-two a:hover {
+    color: #BDBDC6;
+}
+.flex_item {
+    display: flex;
+}
+
+.flex_item img {
+    width: 80px;
+}
+
+.flex_item img:hover {
+    color: #BDBDC6;
+    opacity: 0.6;
+}
+
+.ftr {
+    font-size: 16px;
+    font-weight: 400;
+    color: #0b2149;
+    position: relative;
+    top: -25px;
+    left: 330px;
+}
+
+.frt {
+    position: relative;
+    left: 105px;
+}
